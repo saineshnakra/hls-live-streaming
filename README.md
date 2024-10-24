@@ -1,2 +1,2 @@
 # hls-live-streaming
-Live Streaming for VR Straming applications
+Live Streaming for VR Streaming applications
